@@ -1,6 +1,6 @@
 # Powerhell
 
-A harmless MS-DOS login-shell prank that briefly convinces your friends they
+Software defined hijinks: MS-DOS login-shell that briefly convinces someone they
 have SSHed into 1994.
 
 Powerhell presents a tiny DOS-like prompt at the start of selected users'
@@ -12,7 +12,7 @@ left alone.
 
 - Imitates an MS-DOS 6.22 prompt.
 - Supports `DIR`, `CD`, `CLS`, `TYPE`, `VER`, `HELP`, and `EXIT`.
-- Shows a completely trustworthy loading sequence on exit.
+- Shows a totally trustworthy loading sequence on exit.
 - Runs once per interactive SSH login for explicitly selected accounts.
 - Never asks for a password or alters the user's files.
 
